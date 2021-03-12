@@ -1,0 +1,35 @@
+[config]
+name  = 대한민국
+guiname = "대한민국"
+description = "The First Republic of Korea or South Korea briefly became democratic in 1953, before falling under autocratic rule and collapsing in 1960. The Second Republic started as a democracy but was soon overthrown by an autocratic military regime. The Third, Fourth, and Fifth Republics were nominally democratic, but in reality were more of a continuation of military rule. From 1987, the Sixth Republic has stabilized into a liberal democracy. The Korean royal family has no official authority."
+jobtitle = "대통령"
+
+[stats]
+Population: =	"51.71 million"
+Size:=	"100,032 sq km"	
+Religion: =	"없음 (56.1%),개신교 (19.7%), 한국불교 (15.5%),가톨릭 (7.9%)"
+Exports: =	"전자제품, 기계, 자동차(특히 자동차), 철강, 선박, 섬유, 의류"	
+World Leader:=	"가장 큰 예비군, 가장 높은 고등학교 졸업자 비율, 가장 빠른 인터넷 속도"
+Member of:=	"국제연합, OECD, G20"
+National obsessions:	"K-pop과 K-drama, 치킨, 북한과 풀리지 않는 긴장감, 교육, 성형수술, 근면성실"
+
+[jobs]
+FOREIGNPOLICY = "외교부 장관"
+WELFARE = "보건복지부 장관"
+ECONOMY = "산업통상자원부 장관"
+TAX = "기획재정부 장관"
+PUBLICSERVICES = "행정안전부 장관"
+LAWANDORDER = "법무부 장관"
+TRANSPORT = "국토교통부 장관"
+
+
+
+
+
+
+
+
+
+
+
+
