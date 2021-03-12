@@ -1,0 +1,79 @@
+[names]
+The Justice Coalition
+The Family Values Party
+The Labor League
+The Justice League
+The Green Collective
+The Dominion
+The Peoples Choice Party
+The Liberal Justice Wing
+The Movement for Justice
+The Freedom Brigade
+The Holy Justice Alliance
+The Futurist Party
+The Popular Democrats
+The Popular Republicans
+The Republican Party
+The Democratic Party
+The New Technocrats
+The National Technocrats Party
+The Equality Party
+The Future Democrats
+The Science Party
+The Industrial Party
+The Civil Rights League
+The Modern Family Party
+The Natural Law Party
+The Radical Democrats
+The Radical Loyalists
+The Party For Change
+The Movement for True Freedom
+The Egalitarian Democrats
+The Egalitarian Republicans
+The Neo-Colonialist League
+The Social Justice Party
+The Constitutional Party
+The Anti-Corruption Movement
+The Socialist Revolutionary Party
+The Libertarian Freedom League
+The Patriotic Alliance
+The Defenders Of The Faith
+The Communist Alliance
+The Progressive Change Party
+The Movement For Radical Change
+The No Going Back Party
+The United Diversity Alliance
+The Stop The Patriarchy Party
+The Eternal Freedom Party
+The Unity Pacifists
+The Democratic Moderates
+The United Moderates
+The New Moderates
+The United Republicans
+The Federation Of Socialists
+The Revolutionary Capitalists
+The Property-Rights Party
+The Fundamental Rights Party
+The Progressive Fundamentalists
+The Eco Union
+The Techno-Environmentalists
+The Green Alliance
+The Citizens Alliance
+The Absolute Unity Party
+The Social Democrats
+The Unionists
+The United Right
+The United Left
+The New Right
+The New Left
+The Progressive Fascist Party
+The Welfare Reform party
+The Reform Society
+The Radical Reform party
+
+
+
+
+
+
+
