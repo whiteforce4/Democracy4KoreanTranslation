@@ -25,7 +25,8 @@ strings 파일은
 
 예시)
 
-#,SITUATION_NEAR_WARNING_DESC(번역X)	= "우리의 데이터는 우리가 곧 행동하지 않으면 잠재적으로 나쁜 상황인 (<SITUATION>) (번역X)을 겪게 될 것이라는 것을 보여주고 있다!"
+![캡처](https://user-images.githubusercontent.com/30786081/111015327-806b4900-83eb-11eb-9e49-f1f78a69e754.JPG)
+
   
 # 번역하는 방법
   
