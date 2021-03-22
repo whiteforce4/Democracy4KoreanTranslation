@@ -1,7 +1,7 @@
 [config]
 name  = 대한민국
 guiname = "대한민국"
-description = "The First Republic of Korea or South Korea briefly became democratic in 1953, before falling under autocratic rule and collapsing in 1960. The Second Republic started as a democracy but was soon overthrown by an autocratic military regime. The Third, Fourth, and Fifth Republics were nominally democratic, but in reality were more of a continuation of military rule. From 1987, the Sixth Republic has stabilized into a liberal democracy. The Korean royal family has no official authority."
+description = "제 1 공화국 또는 남한은 1953 년에 잠시 민주화되었다가 독재 통치하에 들어가 1960 년에 무너졌습니다. 제 2 공화국은 민주주의로 시작되었지만 곧 독재 적 군사 정권에 의해 전복되었습니다. 제 3, 제 4, 제 5 공화국은 명목상 민주적 이었으나 실제로는 군사적 지배의 연장에 가깝습니다. 1987 년부터 제 6 공화국은 자유 민주주의로 안정화되었습니다. 한국 왕실은 공식적인 권한이 없습니다."
 jobtitle = "대통령"
 
 [stats]
