@@ -1,18 +1,18 @@
 [config]
-name  = italy
-guiname = "Italy"
+name  = 이탈리아
+guiname = "이탈리아"
 description = "Italy is a parliamentary republic with a multi-party system. Italy became a democracy in 1946, when the monarchy was abolished by popular referendum. Italy operates a a mixed system, with 37% of seats allocated using a first past the post electoral system and 61% using a proportional method, with one round of voting. As recently as 2019, due to frequent failures of coalitions, Italy was considered a flawed democracy."
 jobtitle = "President"
 
 [stats]
-Population:= 	60,461,826 people at mid 2020 according to UN data.
-Size:=	301,340 km²
+인구:= 	"60,461,826 (2020)"
+크기:=	"301,340 km²"
 
-Religion:= 	Catholic (69%), Eastern Orthodox (4%), Atheism and Agnostic (14%). 
-Exports:= 	Machinery including computers, vehicles & parts, pharmaceuticals, electrical machinery, plastics, gems & precious metals, articles of iron or steel.
-World Leader:=	Heritage (culture, history, food). The most UNECO sites. The world's largest wine producer. First country with compulsory climate change lessons for all children.
-Member of:=	European Union, United Nations, NATO, OECD
-National obsessions:=	Coffee, football, healthy Mediterranean diet, family.
+종교:= 	"가톨릭 69%, 동방정교 4%, 없음 14%" 
+수출:= "Machinery including computers, vehicles & parts, pharmaceuticals, electrical machinery, plastics, gems & precious metals, articles of iron or steel"
+세계1위:=	"유산(문화, 역사, 음식), UNECO 유적 수, 와인 생산, 세계최초 아동대상 기후변화 의무교육 실시국"
+가입단체:=	"UN, EU, NATO, OECD"
+대표이미지:=	"커피, 축구, 건강한 지중해 식단, 가족"
 
 
 
