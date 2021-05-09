@@ -6,15 +6,15 @@ description = "미국은 전체 면적으로 볼 때 세계에서 3, 4번째로 
 jobtitle = "대통령"
 
 [stats]
-Population: = "328 million (Jan 2020)"
-Size: = "9.8 million sq km"
-Largest City: = "뉴욕"
-Agricultural Land: = "44.5% of total"
-Ethnicity: = "76.5% 백인 (18.3% 라틴계) 13.4% 흑인"
-National Anthem: = "별이 빛나는 깃발"
-Top Tourist Destination: = "그랜드 캐니언"
-Most popular food: = "치즈버거"
-Biggest Industry: = "부동산"
+인구: = "328 million (Jan 2020)"
+크기: = "9.8 million sq km"
+가장 큰 도시: = "뉴욕"
+국토대비 농지 비율: = "44.5% of total"
+인종: = "76.5% 백인 (18.3% 라틴계) 13.4% 흑인"
+국가: = "별이 빛나는 깃발"
+관광객이 가장 많이 찾는 곳: = "그랜드 캐니언"
+가장 유명한 음식: = "치즈버거"
+최대 규모 사업: = "부동산"
 
 [jobs]
 FOREIGNPOLICY = "국무장관"
