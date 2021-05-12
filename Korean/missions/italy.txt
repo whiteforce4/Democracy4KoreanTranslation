@@ -5,14 +5,14 @@ description = "Italy is a parliamentary republic with a multi-party system.�
 jobtitle = "President"
 
 [stats]
-인구:= 	"60,461,826 (2020)"
-크기:=	"301,340 km²"
+Population:= 	"60,461,826 (2020)"
+Size:=	"301,340 km²"
 
-종교:= 	"가톨릭 69%, 동방정교 4%, 없음 14%" 
-수출:= "Machinery including computers, vehicles & parts, pharmaceuticals, electrical machinery, plastics, gems & precious metals, articles of iron or steel"
-세계1위:=	"유산(문화, 역사, 음식), UNECO 유적 수, 와인 생산, 세계최초 아동대상 기후변화 의무교육 실시국"
-가입단체:=	"UN, EU, NATO, OECD"
-대표이미지:=	"커피, 축구, 건강한 지중해 식단, 가족"
+Religion:= 	"가톨릭 69%, 동방정교 4%, 없음 14%" 
+Exports:= "Machinery including computers, vehicles & parts, pharmaceuticals, electrical machinery, plastics, gems & precious metals, articles of iron or steel"
+World Leader:=	"유산(문화, 역사, 음식), UNECO 유적 수, 와인 생산, 세계최초 아동대상 기후변화 의무교육 실시국"
+Member of:=	"UN, EU, NATO, OECD"
+National obsessions:=	"커피, 축구, 건강한 지중해 식단, 가족"
 
 
 
