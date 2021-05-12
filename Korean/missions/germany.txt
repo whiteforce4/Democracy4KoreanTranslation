@@ -7,7 +7,7 @@ jobtitle = "총리"
 [stats]
 Population: = "83,783,942 (2020)"
 Size: = "357,386 sq km"
-Religion: = "없음 39%, 가톨릭 27%, 복음 25%, 이슬람 5%, "
+Religion: = "없음 39%, 가톨릭 27%, 개신교 25%, 이슬람 5%, "
 Exports: = "자동차, 기계, 화학, 전자, 제약, 금속, 식품"
 World Leader: = "기후 및 에너지 정책, 동물원 수(>400개), 수출"
 Member of: = "유로존, EU 단일 시장, NATO, G4"
