@@ -2,17 +2,17 @@
 name  = 이탈리아
 guiname = "이탈리아"
 description = "Italy is a parliamentary republic with a multi-party system. Italy became a democracy in 1946, when the monarchy was abolished by popular referendum. Italy operates a a mixed system, with 37% of seats allocated using a first past the post electoral system and 61% using a proportional method, with one round of voting. As recently as 2019, due to frequent failures of coalitions, Italy was considered a flawed democracy."
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-Population:= 	"60,461,826 (2020)"
-Size:=	"301,340 km²"
+인구:= 	"60,461,826명 (2020)"
+면적:=	"301,340 km²"
 
-Religion:= 	"가톨릭 69%, 동방정교 4%, 없음 14%" 
-Exports:= "Machinery including computers, vehicles & parts, pharmaceuticals, electrical machinery, plastics, gems & precious metals, articles of iron or steel"
-World Leader:=	"유산(문화, 역사, 음식), UNECO 유적 수, 와인 생산, 세계최초 아동대상 기후변화 의무교육 실시국"
-Member of:=	"UN, EU, NATO, OECD"
-National obsessions:=	"커피, 축구, 건강한 지중해 식단, 가족"
+종교:= 	"가톨릭 69%, 동방정교 4%, 무종교 14%" 
+수출:= "컴퓨터를 포함한 기계, 차량 및 부품, 의약품, 전기 기기, 플라스틱, 보석 및 귀금속, 철 및 강철 품목"
+세계선두:=	"유산(문화, 역사, 음식), UNESCO 유적지 수, 와인 생산, 세계최초 아동대상 기후변화 의무교육 실시국"
+가입기구:=	"유엔, 유럽연합, NATO, OECD"
+국민적 관심사:=	"커피, 축구, 건강한 지중해 식단, 가족"
 
 
 
