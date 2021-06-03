@@ -32,35 +32,35 @@ token,name,title,text
 #,NewPolicy3,새로운 정책,"그러면 이렇게 시행하기로 선택한 정책이 나타납니다. 정책을 새로 시행할 때에는 슬라이더를 정치력 소모 없이 무료로 조절할 수 있습니다. 정책중에는 정책 효과를 완전히 발휘하기까지 시행 시간이 필요한 것 또한 있다는 점 주의하셔야 합니다. 일단은 다시 메인화면으로 돌아가보겠습니다. 오른쪽 위에 닫기 버튼을 눌러주세요."
 #,NextTurn,다음 턴,"아직도 확인해볼 것들이 많지만, 그건 나중에 보도록 하겠습니다. 이번 분기에 하려던 것을 모두 마치셨다면 턴을 끝낼 차례입니다. 화면 가장 오른쪽 위에 있는 다음 턴 버튼을 누르세요."
 ,,,
-#,Report,Report,"This is the quarterly report. It will highlight some key indicators which impact upon the current state of the country. Plus there may be other information you need to be aware of. Urgent dilemmas may appear that need your attention this quarter. Anyway...I can see you have a lot to attend to, so I'll let you get to work. I'm sure the government is in safe hands now."
+#,Report,보고서,"지금 보고계신건 분기 보고서입니다. 나라의 현재 상태에 큰 영향을 미치고 있는 주요 지표를 큼지막하게 보여주고, 아셔야 할 다른 정보 또한 제공합니다. 이번 분기에 확인해야 하는 긴급한 결정이 필요한 딜레마가 나타날 수도 있습니다. 그러면... 이제 하실 일이 많으신 듯 하니 그만 붙잡고 집무실로 보내드리겠습니다. 이번에는 정부가 믿을만한 사람 손에 맡겨진 것 같네요."
 ,,,
-#,Expenses,Expenditure,"This chart shows a breakdown of government expenditure. You can click on an individual items for more detail. Note that the cost of many items will vary over time, depending on a variety of factors."
+#,Expenses,지출,"여기 보이는 차트에서는 정부 지출 내역을 확인할 수 있습니다. 개별 항목을 클릭하면 상세정보를 확인할 수 있습니다. 다만 각 항목에서 발생하는 비용은 시간이 지나면서 각종 요인들에 따라 변화할 수 있다는 점 알아두시기 바랍니다."
 ,,,
-#,Income,Income,"This chart shows a breakdown of government income or revenue. If revenue is less than expenditure, the shortfall or deficit will be made up from government borrowing. This might be okay in the short term but borrowing  increases the national debt. All debt will incur interest payments. You can click on any item to see further details."
+#,Income,수입,"여기 보이는 차트에서는 정부의 각종 세입과 수입원의 내역을 확인할 수 있습니다. 만약 정부 수입보다 지출이 더 크다면, 부족액 내지는 적자금액이 정부 차입으로 메워지게 됩니다. 단기적으로는 괜찮을 수도 있겠지만 결국 국가부채가 늘어나게 되며, 또한 부채는 이자 지급이라는 지출을 다시 발생시킨다는 점 기억해 두어야 합니다. 항목을 클릭하면 상세정보를 확인할 수 있습니다."
 ,,,
-#,Charts,Charts,"The charts screen shows a number of vital indicators for your economy over time. The global economy will influence your own GDP. Your debt level should always be a concern, as when it gets too high, the bond market may get nervous and charge a higher interest rate which could lead to a debt spiral."
+#,Charts,차트,"차트 화면에서는 각종 핵심 경제지표의 변동내역을 확인할 수 있습니다. 국제경제는 국내경제의 GDP에 영향을 주고, 정부 부채수준은 너무 높아지면 채권시장의 불안감을 가중시키고 이자율을 끌어올려 부채의 악순환에 빠지게 될 수 있으니 항상 유의해야 합니다."
 ,,,
-#,Intel,Intel,"This is your intelligence briefing room. We monitor a number of organizations. Some of them are relatively harmless, but they can act as 'gateways' into more extremist, dangerous groups, so we still need to keep an eye on their membership. Our chances of preventing attacks on government will vary based on what security policies you have in place."
+#,Intel,정보,"지금 보시는건 정보 상황판입니다. 우리 정부는 여러 단체를 감시하고 있습니다. 상대적으로 무해한 단체도 있지만, 이들 단체는 극단주의적이고 위험한 집단으로 들어가는 관문 역할을 할 수 있기 때문에 회원들의 동향을 주시하고 있습니다. 정부를 표적으로 하는 공격 시도를 막아낼 확률은 어떤 안보정책을 시행하고 있는지에 따라 크게 달라질 수 있습니다."
 ,,,
-#,Polling,Polling,"This is the polling data. It shows lines for each voter group indicating how their opinion of government has changed over time. You can toggle each line on and off using the color buttons, and visit each voter group by clicking their names, but let's come back to that later..."
-#,Polling2,Polling,Let's check out the focus groups while we are here. Hit the focus group button.
-#,FocusGroup,Focus Group,"The individuals (lined up at the bottom) are members of a random focus group. Click on an individual voter at the bottom to see information about them, or you can create a new focus group with the circular blue icon."
-#,FocusGroup2,Focus Group,"For each individual, this diagram shows the extent to which they associate with each voter group they are in, the opinion they get from that association, and how that all comes together to show the final opinion they have of your government."
-#,FocusGroup3,Focus Group,Let's now take a look at the popularity of your policies in the polls. Hit the policies button.
-,,,
-,,,
-#,Cabinet,Cabinet,"This shows who you have working in each government department. Each minister will have a different level of experience, and loyalty, both of which may change over time. Experienced ministers are more effective at their jobs. They can get policies implemented faster and cheaper. Be aware that over time, the loyalty of your ministers may vary."
-#,Cabinet2,Cabinet,"Disloyal ministers will provide less political capital, so you may eventually need to consider firing some, or maybe reshuffling the cabinet entirely. Also, be aware that each minister is popular with different voter groups, so having them in the cabinet may keep certain voters happy, to an extent... "
-#,Cabinet3,Cabinet,I'll leave you to decide the career prospects of your colleagues now. Don't forget you can always view potential replacement ministers before you fire anyone...
-,,,
-#,Polls,Polls,"This chart shows an estimate of the percentage of the electorate that claim they would vote for you if there were an election right now. This may not be accurate as turnout is unlikely to be 100%. Voters with no strong view either way may not show up to vote on election day, unless it's made compulsory."
+#,Polling,여론조사,"이건 여론조사 자료입니다. 각 유권자 집단의 정부에 대한 견해가 어떻게 변화해왔는지 꺾은선 그래프로 보여줍니다. 오른쪽에 색깔이 표시된 버튼을 클릭해 그래프에서 특정 유권자 집단을 숨길 수도 있고, 유권자 집단의 이름을 클릭하면 바로 해당 유권자 집단의 세부정보를 확인할 수 있는 화면으로 넘어갑니다. 하지만 이건 좀 있다가 살펴보도록 하겠습니다..."
+#,Polling2,여론조사,지금은 일단 여기서 포커스 그룹을 확인해보도록 하겠습니다. 포커스 그룹 버튼을 클릭하세요.
+#,FocusGroup,포커스 그룹,"아래쪽에 줄지어있는 개개인들은 랜덤하게 뽑아낸 포커스 그룹의 구성원들입니다. 그 중 하나의 유권자를 클릭해 세부적인 정보를 확인해볼 수도 있고, 파란색 버튼을 클릭해 새로운 포커스 그룹을 뽑을 수도 있습니다."
+#,FocusGroup2,포커스 그룹,"각각의 개인에 대해 표시되는 도해와 각종 수치는 선택한 유권자가 어떤 유권자 집단에 얼마나 소속감을 보이고 있는지, 소속감을 보이는 집단이 견해 형성에 어떤 영향을 주고 있는지, 이러한 갖가지 요소가 합쳐져서 현 정부에 대해 어떤 견해를 나타내게 되는지까지를 전부 보여줍니다."
+#,FocusGroup3,포커스 그룹,Let's now take a look at the popularity of your policies in the polls. Hit the policies button.
 ,,,
 ,,,
-#,Electioneering,Electioneering,"This is the 'electioneering' screen where you can choose between different tabs to view different aspects of your party and candidates chances for re-election! Some options, such as speeches and manifestos may not be applicable until just before the election, so its probably best to concentrate on running the country until then."
-#,Manifestos,Manifestos,"Manifesto promises are optional, but if you need a last-minute pre-election boost, making grandiose claims to the electorate might be a good idea. Be warned that if you DO get re-elected, you will be punished by the voters if you break these promises."
-#,Speeches,Speeches,"Speeches can be made in the turns leading up to the election. The positive news is that such speeches can gather support from voter groups without you actually having to make any real proposals or promises. The bad news is that each sound-bite you pick will probably upset some voters as well as making some happy, so choose your sound-bites wisely."
-#,Speech Results,Speech Results,"This screen shows you the results of your speech, illustrating how popular it is with a wide focus group of all voters as you go from sound-bite to sound-bite. Higher values are obviously better, but few speeches will be able to please everyone."
-#,Fundraising,Fundraising,"Raising funds for your election campaign is done partly through activists, and partly through wealthy donors. Activists join and leave over time based on your actions. Big Donors work the same way, but you are able to gauge their mood here and maybe head-off losing a big donors before they get too mad."
-#,Perceptions,Perceptions,"Voter perceptions of your candidate and party can have an important influence with 'undecided' voters. In an ideal world your party will be seen as high in all 3 major perception measurements. In practice your policies probably prevent that, but you can compensate with media events. Dont waste media events too far from an election, as their effects will wear off over time."
+#,Cabinet,내각,"여기서는 각 정부부처 장관들을 확인할 수 있습니다. 각각의 장관은 각기 다른 경험과 충성도를 가지고 있으며, 경험과 충성도 모두 시간이 지남에 따라 변동할 수 있습니다. 경험이 많이 쌓인 장관은 업무를 더 효율적으로 처리하고, 그만큼 정책 시행에 들어가는 시간과 비용이 감소합니다. 충성도는 시간이 지남에 따라 크게 변동할 수 있다는 점 알아두셔야 합니다."
+#,Cabinet2,내각,"충성도가 낮은 장관은 정치력을 더 적게 제공하기 때문에, 장관을 개별적으로 경질하거나 아예 내각 전체를 개각해야 할 수도 있습니다. 또한, 각각의 장관은 각기 다른 유권자 집단으로부터 지지를 받기 때문에, 장관의 지지계층을 이용해 특정 유권자 집단의 행복도를 어느정도 높여줄 수도 있습니다."
+#,Cabinet3,내각,일단 장관들의 직업 전망에 관해 결정을 하실 수 있게 자리를 비켜드리도록 하겠습니다. 새로 지명할 장관 후보자는 현직 장관을 해임하지 않아도 확인할 수 있다는 점 잊지 마셔야 합니다.
 ,,,
-#,Happiness ,Happiness ,"This chart shows everybody in this voter group, and where they are on the spectrum from happiness (green) to anger (red). Voters are in many different groups, so its not just this group that influences their opinion. Clicking on an individual dot will show this voter inside the focus group screen."
+#,Polls,지지율,"이 그래프는 지금 바로 투표한다면 누구에게 투표하겠는지 물어보았을 때 각하께 투표하겠다고 답할 유권자 비율의 추정치를 보여줍니다. 하지만 투표율이 100%일 가능성은 낮으니, 이렇게 투표여부를 묻지 않은 조사결과는 정확하지 않을 수도 있습니다. 어떤 방향이건 강한 견해를 보이지 않는 유권자는 의무투표가 실시되지 않은 상태라면 선거일에 투표장에 나타나지 않을 수 있습니다."
+,,,
+,,,
+#,Electioneering,선거공학,"여기 선거공학 화면에서는 탭을 선택해 정당의 갖가지 상황과 재선 확률을 볼 수 있습니다. 연설이나 공약과 같은 일부 옵션은 선거가 직전으로 다가오기 전까지는 사용이 불가능할 수도 있으니 그때까진 일단 나라를 잘 운영하는 편이 낫습니다."
+#,Manifestos,공약,"선거 공약을 꼭 내야만 하는 것은 아니지만, 선거 직전 마지막으로 뒷심을 발휘해야 한다면 유권자들에게 거창한 공약을 내미는 것도 좋은 생각일겁니다. 만약 재선하는데 성공하신다면 발표했던 공약을 이행해야 하고, 실패시 유권자들에게 크게 냉대받게 된다는 점 유의하셔야 합니다."
+#,Speeches,연설,"선거를 앞두고 몇 턴간은 연설을 사용할 수 있습니다. 좋은 점은 연설을 통해 실질적으로 뭔가 제안이나 약속을 하지 않고도 유권자 집단의 지지를 살 수 있다는 점이고, 나쁜 점은 선택하게 되실 연설내용 대다수가 한 유권자 집단을 화나게 하는 식으로 다른 유권자 집단의 행복도를 높여준다는 점입니다. 그러니 연설내용을 현명하게 고르셔야 합니다."
+#,Speech Results,연설 결과,"지금 화면은 연설의 결과를 보여주는 것으로, 각각의 연설 내용이 전체 유권자 집단에서 뽑아낸 포커스 그룹에서 어떤 평가를 받았는지를 알 수 있습니다. 값이 높을수록 당연히 인기도가 높아진다는 뜻이니 좋겠지만, 모두를 만족시킬 수 있는 연설은 아마 찾기 어려울겁니다."
+#,Fundraising,모금,"선거운동 자금의 모금활동에서는 적극지지층과 부유한 기부자들이 주축을 이루게 됩니다. 적극지지층은 각하의 정책행보에 따라 모금활동에 참여하거나 떠날 수 있고, 고액 기부자 또한 비슷한 방식으로 움직이지만 고액 기부자는 미리 기분이 어떤지를 가늠해볼 수 있고 이에 맞춰 기부자가 화나기 전에 대응하는 방식으로 기부자를 상실하는걸 피할 수 있습니다."
+#,Perceptions,이미지,"후보로 나서게 되실 각하와 여당의 이미지는 아직 마음을 결정하지 못한 유권자들에겐 중대한 영향을 줄 수 있습니다. 이상적으로는 여당이 주요 이미지 척도 3가지 모두에서 최고치를 찍으면 좋겠지만, 실제로는 일부 정책으로 인해 그런 이미지를 달성하기가 어려울 것입니다. 그래도 각종 언론 행사를 통해 이미지를 채워넣을 수 있습니다. 다만 선거가 아직 한참 남은 시점에 언론 이벤트를 쓰면 시간이 지남에 따라 효과가 점차 사라지기 때문에 결국 언론 행사를 낭비하게 되실테니 이런 상황은 피하셔야 합니다."
+,,,
+#,Happiness ,행복도,"이 차트에서는 선택한 유권자 집단에 소속된 모든 유권자를 각자의 행복도에 따라 스펙트럼상에 표시해주고, 행복도가 높으면 초록색 영역에, 행복도가 낮으면 빨간색 영역에 나타나게 됩니다. 유권자는 다양한 집단에 속할 수 있는만큼, 현재 선택한 하나의 집단만이 유권자의 견해를 결정짓는 것은 아닙니다. 유권자 개인을 나타내는 점을 클릭하면 포커스 그룹 화면에서 해당 유권자를 살펴볼 수 있습니다."
