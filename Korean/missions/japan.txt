@@ -1,18 +1,18 @@
 [config]
-name  = japan
-guiname = "Japan"
-description = "Japan is a parliamentary constitutional monarchy with a ceremonial emperor and bicameral parliament. The current emperor is Naruhito, following the abdication of Akihito in 2019. The house of representatives has 465 seats and the upper house of councillors has 245 seats. Representatives must be at least 25 and councillors at least 30. The minimum voting age was reduced from 20 to 18 in 2016. Japan is divided in 47 prefectures, each overseen by an elected governor."
-jobtitle = "Prime Minister"
+name  = 일본
+guiname = "일본"
+description = "일본은 상징적인 천황과 국회에 양원을 두고 있는 입헌군주정 의원내각제 국가이다. 현 천황은 나루히토이며, 아키히토 천황으로부터 2019년에 양위받아 즉위하였다. 하원인 중의원은 465석으로 구성되어 있고 상원인 참의원은 245석으로 구성되어 있다. 중의원이 되려면 나이가 25세를 넘어야 하고 참의원이 되기 위해서는 30세를 넘어야 한다. 선거권을 갖게 되는 나이가 20세에서 18세로 하향된 것은 2016년이다. 일본은 47개 도도부현으로 나누어지며 각각을 선출된 지사가 관리하고 있다."
+jobtitle = "총리"
 
 [stats]
-Population:= 	"126.3 million"
-Size:=		"145,937 sq km"
-Ethnicity:= 	"98.1% Japanese 0.5% Chinese 0.4% Korean"
-Religion:= 	"Shintoism(70.4%) Christianity (1.5%)
-Exports:= 	"Cars, Iron, Steel, Semiconductors".
-World Leader:=	"Robotics production"
-Member of:=	"United Nations, OECD, WTO, G7"
-National obsessions:=	"Video Games, Animation"
+인구:= 	"1억 2630 만명"
+면적:=		"145,937 제곱킬로미터"
+민족구성:= 	"일본인 98.1% 중국인 0.5% 한국인 0.4%"
+종교:= 	"신토(70.4%) 기독교 (1.5%)
+수출:= 	"자동차, 철강, 강철, 반도체".
+세계선두:=	"로봇 생산"
+가입기구:=	"유엔, OECD, WTO, G7"
+국민적 관심사:=	"비디오 게임, 애니메이션"
 
 
 
