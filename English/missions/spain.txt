@@ -1,13 +1,13 @@
 [config]
-name  = 스페인
-guiname = "스페인"
-description = "스페인 왕국의 첫 민주적 선거는 1977년 6월 1939년 이후 독재정권 하에 스페인을 통치했던 1975년 프란시스코 프랑코가 사망한 후 이루어졌다. 1978년, 새로운 민주 헌법이 공포되고 국민투표에 의해 승인되었다. 스페인은 국왕 후안 카를로스 1세가 국가 원수가 되었으며 일반 참정권이 보장된 입헌 군주제로 선포되었다."
-jobtitle = "총리"
+name  = spain
+guiname = "Spain"
+description = "The Kingdom of Spain's first democratic election took place in June 1977 after the death of Francisco Franco in 1975 who had ruled Spain under a dictatorship since 1939. In 1978, a new democratic constitution was promulgated and approved by referendum. Spain was declared a constitutional parliamentary monarchy with King Juan Carlos I as Head of State and with universal suffrage."
+jobtitle = "Prime Minister"
 
 [stats]
 Population:=	46,754,778 (2020) according to UN data.
 Size:=	505,990 km2	
-Religion:= 	68% 가톨릭, 28% 없음, 2.6% 다른 신앙 28% 
+Religion:= 	68% Catholics, 2.6% other faiths and 28% identify as Atheists.
 Exports:= 	Machinery, motor vehicles; foodstuffs, pharmaceuticals, medicines, other consumer goods
 World Leader:=	Health, Organ donation. The third highest number of UNESCO world heritage sites. Generating and exporting renewable energy.
 Member of:=	European Union, United Nations, NATO, OECD
