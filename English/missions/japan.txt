@@ -6,7 +6,7 @@ jobtitle = "Prime Minister"
 
 [stats]
 Population:= 	"126.3 million"
-Size:=		"145,937 sq km"
+Size:=		"377,975 sq km"
 Ethnicity:= 	"98.1% Japanese 0.5% Chinese 0.4% Korean"
 Religion:= 	"Shintoism(70.4%) Christianity (1.5%)
 Exports:= 	"Cars, Iron, Steel, Semiconductors".
