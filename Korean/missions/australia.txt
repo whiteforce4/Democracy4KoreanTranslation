@@ -13,6 +13,15 @@ jobtitle = "총리"
 가입기구: = "G20, APEC, NPDI"
 국민적 관심사: = "격식 타파, 바베큐, 사립학교, 해변생활"
 
+[jobs]
+FOREIGNPOLICY = "외교통상부 장관"
+WELFARE = "사회복지부 장관"
+ECONOMY = "산업·과학·에너지·자원부 장관"
+TAX = "재무부 장관"
+PUBLICSERVICES = "내무부 장관"
+LAWANDORDER = "법무부 장관"
+TRANSPORT = "인프라·교통·지역개발·통신부 장관"
+
 
 
 
