@@ -14,6 +14,15 @@ jobtitle = "총리"
 가입기구:=	"유엔, OECD, WTO, G7"
 국민적 관심사:=	"비디오 게임, 애니메이션"
 
+[jobs]
+FOREIGNPOLICY = "외무대신"
+WELFARE = "후생노동대신"
+ECONOMY = "경제산업대신"
+TAX = "재무대신"
+PUBLICSERVICES = "총무대신"
+LAWANDORDER = "법무대신"
+TRANSPORT = "국토교통대신"
+
 
 
 
