@@ -14,6 +14,15 @@ jobtitle = "총리"
 가입기구:=	"유엔, 유럽연합, NATO, OECD"
 국민적 관심사:=	"커피, 축구, 건강한 지중해식 식단, 가족"
 
+[jobs]
+FOREIGNPOLICY = "외무장관"
+WELFARE = "노동사회정책장관"
+ECONOMY = "경제개발장관"
+TAX = "경제재무장관"
+PUBLICSERVICES = "내무장관"
+LAWANDORDER = "법무장관"
+TRANSPORT = "지속가능인프라·모빌리티장관"
+
 
 
 

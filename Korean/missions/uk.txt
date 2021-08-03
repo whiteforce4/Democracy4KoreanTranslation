@@ -14,6 +14,15 @@ jobtitle = "총리"
 국가: = "하느님 여왕을 지켜주소서"
 최고 부자: = "제임스 다이슨 경 (2020)"
 
+[jobs]
+FOREIGNPOLICY = "외무장관"
+WELFARE = "노동연금장관"
+ECONOMY = "기업·에너지·산업전략장관"
+TAX = "재무장관"
+PUBLICSERVICES = "내무장관"
+LAWANDORDER = "법무장관"
+TRANSPORT = "교통장관"
+
 
 
 

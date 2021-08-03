@@ -12,6 +12,15 @@ joptitle = "총리"
 세계선두: = "가장 긴 해안선, 삶의 질, 정부와 기업의 투명성"
 국민적 관심사: = "메이플시럽, 아이스하키, 공손함, 다양성"
 
+[jobs]
+FOREIGNPOLICY = "국제부 장관"
+WELFARE = "고용·사회개발부 장관"
+ECONOMY = "혁신·과학·경제개발부 장관"
+TAX = "재무부 장관"
+PUBLICSERVICES = "공공서비스조달부 장관"
+LAWANDORDER = "법무부 장관"
+TRANSPORT = "교통부 장관"
+
 
 
 
