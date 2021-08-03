@@ -13,6 +13,14 @@ jobtitle = "대통령"
 가입기구: = "유로존, EU 단일시장, NATO, G4"
 국민적 관심사: = "미식, 평등, 와인, 사이클 경기"
 
+[jobs]
+FOREIGNPOLICY = "유럽·외교장관"
+WELFARE = "노동·고용·동화장관"
+ECONOMY = "경제·재정·활성화장관"
+TAX = "공공회계담당 특임장관"
+PUBLICSERVICES = "내무장관"
+LAWANDORDER = "법무장관"
+TRANSPORT = "교통담당 특임장관"
 
 
 
