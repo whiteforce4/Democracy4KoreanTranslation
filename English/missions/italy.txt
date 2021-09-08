@@ -10,7 +10,7 @@ Size:=	301,340 km²
 
 Religion:= 	Catholic (69%), Eastern Orthodox (4%), Atheism and Agnostic (14%). 
 Exports:= 	Machinery including computers, vehicles & parts, pharmaceuticals, electrical machinery, plastics, gems & precious metals, articles of iron or steel.
-World Leader:=	Heritage (culture, history, food). The most UNECO sites. The world's largest wine producer. First country with compulsory climate change lessons for all children.
+World Leader:=	Heritage (culture, history, food). The most UNESCO sites. The world's largest wine producer. First country with compulsory climate change lessons for all children.
 Member of:=	European Union, United Nations, NATO, OECD
 National obsessions:=	Coffee, football, healthy Mediterranean diet, family.
 
