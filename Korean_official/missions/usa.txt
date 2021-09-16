@@ -1,0 +1,36 @@
+[config]
+name  = usa
+guiname = "미국"
+description = "미합중국은 전체 면적으로 따져 세계에서 세 번째 혹은 네 번째로 큰 나라이자 세계에서 세 번째로 인구가 많은 국가입니다. 미국인들은 수세기에 걸친 이민으로 형성된 다양한 인종적, 민족적 배경의 인구를 구성합니다. 미국은 연방 공화국이자 대의 민주주의 국가입니다. 유엔, 세계은행, 국제통화기금, NATO의 창립 회원국입니다. 미국은 유엔 안전보장이사회 상임이사국입니다."
+
+jobtitle = "대통령"
+
+[stats]
+Population: = "3억 2,800만(2020년 1월)"
+Size: = "980만 제곱킬로미터"
+Largest City: = "뉴욕시"
+Agricultural Land: = "전체의 44.5%"
+Ethnicity: = "76.5% 백인(18.3% 히스패닉) 13.4% 흑인"
+National Anthem: = "성조기"
+Top Tourist Destination: = "그랜드 캐니언"
+Most popular food: = "치즈버거"
+Biggest Industry: = "부동산"
+
+[jobs]
+FOREIGNPOLICY = "주무장관"
+WELFARE = "주택도시개발부장관"
+ECONOMY = "상무장관"
+TAX = "재무장관"
+PUBLICSERVICES = "보건복지부 장관"
+LAWANDORDER = "법무장관"
+TRANSPORT = "교통장관"
+
+
+
+
+
+
+
+
+
+
