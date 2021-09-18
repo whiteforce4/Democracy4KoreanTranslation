@@ -7,7 +7,7 @@ jobtitle = "Chancellor"
 [stats]
 Population: = "83,783,942 (2020)"
 Size: = "357,386 sq km"
-Religion: = "None 39%, Catholicism 27%, Evangelical 25%, Islam 5%, "
+Religion: = "None 39%, Roman Catholic 27%, Protestant 25%, Islam 5%, "
 Exports: = "Vehicles, machinery, chemicals, electronics, pharmaceuticals, metals, food."
 World Leader: = "Climate and energy policies, number of zoos (>400), exports"
 Member of: = "Eurozone, EU single market, NATO, G4"
