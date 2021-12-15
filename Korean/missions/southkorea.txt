@@ -14,13 +14,13 @@ jobtitle = "대통령"
 국민적 관심사:=	"K-pop과 K-drama, 치킨, 북한과의 풀리지 않는 긴장감, 교육, 성형수술, 근면성실"
 
 [jobs]
-FOREIGNPOLICY = "외교부 장관"
-WELFARE = "보건복지부 장관"
-ECONOMY = "산업통상자원부 장관"
-TAX = "기획재정부 장관"
-PUBLICSERVICES = "행정안전부 장관"
-LAWANDORDER = "법무부 장관"
-TRANSPORT = "국토교통부 장관"
+FOREIGNPOLICY = "외교부장관"
+WELFARE = "보건복지부장관"
+ECONOMY = "산업통상자원부장관"
+TAX = "부총리 겸 기획재정부장관"
+PUBLICSERVICES = "행정안전부장관"
+LAWANDORDER = "법무부장관"
+TRANSPORT = "국토교통부장관"
 
 
 
